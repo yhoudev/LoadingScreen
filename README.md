@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <a href="https://discord.gg/AMwncqP2">
-    <img src="https://github.com/yhoudev/yhoudev/blob/Profile/yhoudev.png">
+    <img src="https://github.com/yhoudev/LoadingScreen/blob/Profile/load.png">
   </a>
 </div>
 
