@@ -9,7 +9,7 @@
 </div>
 
 </p>
-<div align="center">Ce <b>loadingscreen</b> et complètement debug par moi et j'ai rajouté la possibilité de jouer de la MUSIC</div>
+<div align="center">Ce <b>LOADINGSCREEN</b> et complètement debug par moi et j'ai rajouté la possibilité de jouer de la <b>MUSIC</b></div>
 </p>
 <div align="center">Discord : https://discord.gg/heMuyqCkuU </div>
 <div align="center">Github : https://github.com/yhoudev/ </div>
